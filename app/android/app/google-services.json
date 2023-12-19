@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "21646807724",
+    "project_id": "esof-2223-g4",
+    "storage_bucket": "esof-2223-g4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21646807724:android:acd6d9f22627db55638509",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21646807724-fgs4eke7hs88l5jmlhai39h02mk1qrth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE9MHI5cuHXwDPccAQ8FrH_thuvkVjs24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21646807724-fgs4eke7hs88l5jmlhai39h02mk1qrth.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "21646807724-521boa3558ikcvu1pbohsndtmqfj1dt9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
